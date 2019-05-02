@@ -342,22 +342,22 @@ color: rgb(0,0,0,0);
     background: url("https://cdn.thestandnews.com/media/photos/cache/Cats20Undercovered_233_01_P8ay9_1200x0.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);
-    background: #f2b179; }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     background: url("https://dvblobcdnjp.azureedge.net//Content/Upload/DailyArticle/Images/2019-01/08bcf791-e4ed-47c8-934d-28130a6cd399_m.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);
-    background: #f59563; }
+   box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
    background: url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpVWqeF0.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);
-    background: #f67c5f; }
+   box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-64 .tile-inner {
    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhSvPyht_QxwZD2U6iDWMLBvmFuMYcAn3VKZvBrC4yvSvt5NYJw");
 background-size: cover;
 color: rgb(0,0,0,0);
-    background: #f65e3b; }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
